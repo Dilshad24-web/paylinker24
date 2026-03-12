@@ -1,0 +1,14 @@
+packages:
+  "firebase": "For Realtime Database integration"
+  "qrcode.react": "To generate QR codes for UPI links on desktop"
+  "react-helmet-async": "For SEO metadata management"
+  "framer-motion": "For premium smooth animations and page transitions"
+
+images:
+  - path: "artifacts/upi-payment-tool/public/images/hero-bg.png"
+    description: "Abstract premium fintech background with deep indigo, purple, and subtle gold light leaks, glassmorphism style, 8k resolution"
+    aspect_ratio: "16:9"
+
+notes:
+  - App uses Firebase Realtime Database with no backend.
+  - Template selection uses localStorage.
