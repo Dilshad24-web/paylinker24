@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /templates
+Allow: /privacy-policy
+Allow: /terms
+Allow: /disclaimer
+Allow: /contact
+Disallow: /pay/
+
+Sitemap: https://paylinker.site/sitemap.xml
